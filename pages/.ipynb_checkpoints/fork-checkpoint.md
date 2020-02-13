@@ -146,5 +146,3 @@ You don't have to use the github website for this.
 - The pull request on github will be automatically closed.
 
 **Next**: [Handling merge conflicts](merge_conflicts.html)
-
-Adding a line here...
